@@ -17,3 +17,4 @@ If you are an auditor, a creative problem solver or have a security background: 
 | [VU token](https://www.vutoken.io/)                 | [04/24/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Vutoken.pdf)               | 
 | [iExec](https://iex.ec/)                            | [05/16/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_iExec.pdf)                 |
 | [Kyber Network](https://kyber.network/)             | [06/29/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf)          |
+| [Paxos](https://www.paxos.com)					  | [09/13/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Paxos.pdf)				  |
