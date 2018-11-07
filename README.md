@@ -13,6 +13,7 @@ If you are an auditor, a creative problem solver or have a security background: 
 
 | Project       						              | Delivery Date 																					          | 
 | ----------------------------------------------------|-----------------------------------------------------------------------------------------------------------| 
+| [Zilliqa](https://zilliqa.com)                      | [12/27/2017](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf)
 | [PolicyPal Network](https://www.policypal.network/) | [02/28/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PolicyPal.pdf)             |
 | [VU token](https://www.vutoken.io/)                 | [04/24/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Vutoken.pdf)               | 
 | [iExec](https://iex.ec/)                            | [05/16/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_iExec.pdf)                 |
