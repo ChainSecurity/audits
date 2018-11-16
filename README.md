@@ -21,4 +21,6 @@ If you are an auditor, a creative problem solver or have a security background: 
 | [POA Network](https://poa.net/)                     | [09/11/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf)                   |
 | [Paxos](https://www.paxos.com)                      | [09/13/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Paxos.pdf)                 |
 | [Wrapped BTC](https://www.wbtc.network/)            | [10/11/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_WBTC.pdf)                  |
+| [Republic Protocol](https://republicprotocol.com/)  | [10/22/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Republic.pdf)              |
 | [STK](https://stktoken.com/)                        | [11/07/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STK.pdf)                   |
+| [Switcheo Network](https://switcheo.network/)       | [11/15/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Switcheo.pdf)              |
