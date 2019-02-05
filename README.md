@@ -25,4 +25,4 @@ If you are an auditor, a creative problem solver or have a security background: 
 | [STK](https://stktoken.com/)                        | [11/07/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STK.pdf)                   |
 | [Switcheo Network](https://switcheo.network/)       | [11/15/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Switcheo.pdf)              |
 | [Digix Dao](https://digix.global/dgd)               | [12/10/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Digix.pdf)                 |
-| [DAOStack](https://daostack.io/)                    | [01/15/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_DAOStack.pdf)              |
+| [DAOStack](https://daostack.io/)                    | [01/15/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_DAOstack_v2.pdf)           |
