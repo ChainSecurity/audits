@@ -29,3 +29,5 @@ If you are an auditor, a creative problem solver or have a security background: 
 | [DAOStack](https://daostack.io/)                    | [01/15/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_DAOstack_v2.pdf)           |
 | [Melonport protocol](https://melonport.com/)        | [03/01/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf)                 |
 | [Blockimmo](https://blockimmo.ch/)                  | [04/01/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Blockimmo.pdf)             |
+| [STOKR](https://stokr.io/)                          | [04/29/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STOKR.pdf)                 |
+| [MARKET Protocol](https://marketprotocol.io/)       | [05/22/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_MARKET_Protocol.pdf)       |
